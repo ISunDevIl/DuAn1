@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="NewGiaoDien">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/newGiaoDien/NewGiaoDien/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/newGiaoDien/NewGiaoDien/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DA1_RED/jcalendar-1.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19" />
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19" />
+      <root url="file://$PROJECT_DIR$/../Hoang/poi-bin-5.2.3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19/experimental" />
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19/source" />
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19/swt" />
+      <root url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19/tests" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Hoang/jfreechart-1.0.19" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Hoang/poi-bin-5.2.3" recursive="false" />
+  </library>
+</component>
